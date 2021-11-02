@@ -12,9 +12,6 @@ Concepts that I have learned and implemented into this API are:
 - AutoMapper
 - Data-Transfer Objects
 - Http Response Types
-- CRUD operations
-- Validation
-- Debugging
 - Versioning
 - Caching
 - Rate Limiting
